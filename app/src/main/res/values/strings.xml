@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">HonTuemTeamProject</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_add">전적 추가</string>
+    <string name="tab_status">현재 전적</string>
+
+    <!-- Player List Layout-->
+    <string name="player_list">[Player List]</string>
+    <string name="add_player">Add Player</string>
+    <string name="remove_player">Remove Player</string>
 </resources>
